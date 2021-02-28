@@ -15,3 +15,19 @@ No se heredan / extienden
       
 PROTECTED 
 Pueden ser heredadas por clases hijas / que se extienden
+
+
+
+Accesos que permiten las palabras reservadas public, protected y private en métodos y propiedades:
+
+PRIVATE:
+Desde la misma clase que declara
+
+PROTECTED:
+Desde la misma clase que declara
+Desde las clases que heredan esta clase
+
+PUBLIC:
+Desde la misma clase que declara
+Desde las clases que heredan esta clase
+Desde cualquier elemento fuera de la clase
